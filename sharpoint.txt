@@ -1,0 +1,2 @@
+Overview
+This instructor led, online training course includes a deep dive into how to understand, interact, and utilize the Microsoft SharePoint app. Specifically, this course covers sites, apps, pages, lists, libraries, calendars, and more!
